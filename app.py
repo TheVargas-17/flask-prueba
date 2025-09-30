@@ -10,15 +10,15 @@ def calculadora():
     <h2> Para restar escribe en el navegador http://127.0.0.1:5000/restar<h2>
     <h2> Para multiplicacion escribe en el navegador http://127.0.0.1:5000/multiplicacion<h2>
     <h2> Para division escribe en el navegador http://127.0.0.1:5000/division<h2>
-    <h2> Para mayor escribe en el navegador http://127.0.0.1:5000/mayor<h2>
-    <h2> Para menor escribe en el navegador http://127.0.0.1:5000/menor<h2>
+    <h2> Para mayor escribe en el navegador http://127.0.0.1:5000/menor<h2>
+    <h2> Para menor escribe en el navegador http://127.0.0.1:5000/mayor<h2>
     
 
     <footer>
-    1-LEONARDO VARGAS LOPEZ
-    2-23308060610434
-    3-5-D
-    4-PROGRAMACION
+    LEONARDO VARGAS LOPEZ-
+    23308060610434-
+    5-D-
+    PROGRAMACION
     </footer>
     '''
     return mensaje
